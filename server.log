@@ -1,0 +1,1138 @@
+/Users/Salah/Desktop/Hope/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+INFO:     Started server process [36867]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:app.routers.leads:Received lead search request: business='SaaS Companies', industry='None', problem='struggling to get users'
+Version 7.7.1 of praw is outdated. Version 7.8.1 was released Friday October 25, 2024.
+INFO:app.routers.leads:Searching in subreddits: ['SaaS', 'startups', 'IndieHackers', 'EntrepreneurRideAlong', 'entrepreneur', 'smallbusiness', 'business']
+INFO:app.services.reddit_service:Fetching 100 posts from r/SaaS (time_range: today)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 66 unique posts from r/SaaS
+INFO:app.services.reddit_service:Fetching 100 posts from r/startups (time_range: today)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 54 unique posts from r/startups
+INFO:app.services.reddit_service:Fetching 100 posts from r/IndieHackers (time_range: today)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 56 unique posts from r/IndieHackers
+INFO:app.services.reddit_service:Fetching 100 posts from r/EntrepreneurRideAlong (time_range: today)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 52 unique posts from r/EntrepreneurRideAlong
+INFO:app.services.reddit_service:Fetching 100 posts from r/entrepreneur (time_range: today)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 61 unique posts from r/entrepreneur
+INFO:app.services.reddit_service:Fetching 100 posts from r/smallbusiness (time_range: today)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 59 unique posts from r/smallbusiness
+INFO:app.services.reddit_service:Fetching 100 posts from r/business (time_range: today)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 53 unique posts from r/business
+INFO:app.routers.leads:Fetched 401 total posts from Reddit
+INFO:app.services.lead_filter:Starting AI-enhanced filtering for 401 posts
+INFO:app.services.lead_filter:Time filtering (backup): 401 posts -> 311 posts (time_range: today)
+INFO:app.services.lead_filter:AI-enhanced filtering: 311 time-filtered posts with enhanced query: struggling to get users
+INFO:app.services.lead_filter:AI Analysis - Post: Found an RLS Bug in Post-Bridge ($10k+ MRR) That L... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: Cost-Effective Compliance Recommendations for SOC ... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: SaaS! What do you use for app-to-app data sync?... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: How do you validate a SaaS idea without spending m... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: launched it but perfecting my yh stocks / finance ... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: We're turning social media scheduling into AI Cont... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Boring businesses with real problems, where they a... Score: 68
+INFO:app.services.lead_filter:AI Analysis - Post: I am losing, on average $250~ per month and absolu... Score: 80
+INFO:app.services.lead_filter:AI Analysis - Post: PMF / Crossing the Chasm Consultants Out There?... Score: 57
+INFO:app.services.lead_filter:AI Analysis - Post: I’m building Voxa — an AI content tool that turns ... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: Most SaaS founders don’t have a marketing problem,... Score: 46
+INFO:app.services.lead_filter:AI Analysis - Post: Building a tool that matches your skills to SaaS o... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: I built a GoCardless Receipt Sender to automatical... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: Is it hard to sell a documentation-related service... Score: 45
+INFO:app.services.lead_filter:AI Analysis - Post: Most SaaS features flop because nobody checks if u... Score: 52
+INFO:app.services.lead_filter:AI Analysis - Post: Why does most apps become either reddit leads find... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: White Label job board software needed... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Extended my free trial from 3 → 7 days — and conve... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: Do you recommend any services to buy a US number a... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Built a semantic AI search for WooCommerce — tryin... Score: 49
+INFO:app.services.lead_filter:AI Analysis - Post: FinTech Founders: Is vendor-vetting one of the wor... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: Could a “social challenge” app actually work? (thi... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: What apps do you use for social media marketing?... Score: 9
+INFO:app.services.lead_filter:AI Analysis - Post: Landing Page Feedback... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Oh… n8n killed me... Score: 50
+INFO:app.services.lead_filter:AI Analysis - Post: Built a free platform to help founders find their ... Score: 47
+INFO:app.services.lead_filter:AI Analysis - Post: Help Me Expand My JSON Developer Toolkit... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: I am building a document platform api that gives y... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: Want $6M ARR as a Solopreneur? Study Cluely’s Chao... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Hit $1,000 MRR with Meku in 3 months 🚀 (AI-powered... Score: 37
+INFO:app.services.lead_filter:AI Analysis - Post: Advice for SaaS idea - market valued at +700B... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: I built HumbleDrop to help SaaS founders launch on... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: Why your SaaS isn’t growing - even though people s... Score: 52
+INFO:app.services.lead_filter:AI Analysis - Post: I'm tired of validating ideas that never amount to... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: How do you manage using multiple AI tools without ... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: Would you like to manage calendar directly from yo... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Tuesday is for self-promotion. What are you buildi... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Please stop vibe coding productive SaaS platforms... Score: 21
+INFO:app.services.lead_filter:AI Analysis - Post: looking for contributors for an open-source fireba... Score: 29
+INFO:app.services.lead_filter:AI Analysis - Post: Just created my first app any advice is much appre... Score: 56
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for simple but useful SaaS ideas to build... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: Micro-SaaS Idea: Menu Price Calculator for Restaur... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: SAAS website template... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: To My 20-Year-Old Self: Don’t Build a SaaS Until Y... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: Is the role of Product Manager becoming more and m... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: The US hikes foreign talent visa fees to $100K... ... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: [BUYING] SaaS or API-based Business ($5K–$10K Rang... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Where can I invest in micro SaaS companies?... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: Drop your website in the form below, I’ll give you... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: From $0 to $500+ revenue in my 1st month. Here's w... Score: 34
+INFO:app.services.lead_filter:AI Analysis - Post: New community designed around MRR!... Score: 5
+INFO:app.services.lead_filter:AI Analysis - Post: Most SaaS startups don’t fail from bad products, t... Score: 51
+INFO:app.services.lead_filter:AI Analysis - Post: How I made my first million 👇... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: How do you know if no one needs your product. vs y... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: Do B2B founders underestimate how much authority m... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: A founder offered a user 50% off for life. His rea... Score: 57
+INFO:app.services.lead_filter:AI Analysis - Post: I Tested 5+ AI Headshot Tools for LinkedIn & X — H... Score: 45
+INFO:app.services.lead_filter:AI Analysis - Post: Looking to connect with people who use videos in m... Score: 45
+INFO:app.services.lead_filter:AI Analysis - Post: No crazy metrics. No success story. Just a working... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: Managing Multiple Email Addresses... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Maintaining motivation when no one is interested i... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: Why do 70% of GTM plans fail?... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: Are u saas founder?... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: I tried all tools to make my images for posting on... Score: 2
+INFO:app.services.lead_filter:AI Analysis - Post: Those companies managing multiple projects or team... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: my friend left goldman to build an atta(flour) bra... Score: 2
+INFO:app.services.lead_filter:AI Analysis - Post: FinTech Founders: Is vendor-vetting one of the wor... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Co-founders don't get basic startup principles. I ... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: How do you actually get investor visibility today?... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: How to screw a company! “I will not promote”... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: Is the hardest thing is to launch? what that even ... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: You are not a Startup if you are doing this, i wil... Score: 5
+INFO:app.services.lead_filter:AI Analysis - Post: What's the no. 1 thing killing your signup form co... Score: 59
+INFO:app.services.lead_filter:AI Analysis - Post: 50 MW Solar Park in Rajasthan Open Access Model | ... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Replit’s 9-Year Grind: How Many of Us Can Stay the... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: Should I Drop Co-founder? (I will not promote)... Score: 55
+INFO:app.services.lead_filter:AI Analysis - Post: Advice on funding, I will not promote... Score: 71
+INFO:app.services.lead_filter:AI Analysis - Post: why don't more tools have proper figma integration... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: Website (SaaS) vs Phone App? - i will not promote... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: Thoughts on co-ceo title - worth exploring or nay?... Score: 42
+INFO:app.services.lead_filter:AI Analysis - Post: When does an outreach system becomes important for... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: Advisor Equity Options or Common Stock - I will no... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: When did you realize your startup idea wasn’t wort... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: Anyone hiring interns? - I will not promote... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: From unicorn to scrap paper! “I will not promote”... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: Is "hyper-personalized video" a dead end or a good... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: what’s one underrated business idea are still wide... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: How do you get your first customers/revenue in B2B... Score: 29
+INFO:app.services.lead_filter:AI Analysis - Post: $500k, yea… thats the power of connections 😭 [i wi... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Most of you just don't want to do the work - i wil... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: Business has hit a wall "i will not promote"... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: Should co-founders pay each other commission if on... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: [Hiring/Seeking/Offering] Jobs / Co-Founders Weekl... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: Marketing Suggestions “i will not promote”... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: Why do YOU believe your startup will be a success?... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: VCs: "We invest at the earliest stage!" (But also,... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: I feel like I want to exit my startup - what shoul... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: Is it worth seeking investors when you have the mo... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Share split models for founders with different tim... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: What 5 Million Entrepreneurs Taught Me Today: Abou... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: I will not promote for sure...Funding advice neede... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Stop chasing millions. Focus on your first 10 user... Score: 57
+INFO:app.services.lead_filter:AI Analysis - Post: LinkedIn creators: How do you decide which followe... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: Rebuilding Publer’s Zapier integration! What would... Score: 13
+INFO:app.services.lead_filter:AI Analysis - Post: Boring businesses with real problems, where they a... Score: 68
+INFO:app.services.lead_filter:AI Analysis - Post: How do y'all find conviction to go after an idea o... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: Is building another AI coding agent/editor worth i... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: FinTech Founders: Is vendor-vetting one of the wor... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Reddit kept burying my launch posts — so I built a... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: Is it worth starting to build a SaaS without fully... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: I tested 4 demo formats with 12 B2B products.... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Micro-SaaS Idea: Menu Price Calculator for Restaur... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: Looking to buy, Loan, and invest in SAAS companies... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for Feedback: Launching a Low-Code Backend... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: ShootCraft is live on ProductHunt.🚀... Score: 30
+INFO:app.services.lead_filter:AI Analysis - Post: Built a tool to check if ChatGPT can see your cont... Score: 49
+INFO:app.services.lead_filter:AI Analysis - Post: The founder's dilemma: How do you distinguish betw... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: How do you promote your startup here in Reddit?... Score: 52
+INFO:app.services.lead_filter:AI Analysis - Post: Building a Business Data Graph to give lenders and... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: We built Chopdi AI — an AI-native note-taking “sec... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: [SHOW IH] PM AutoTwin - One-click CAD/3D optimizat... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: 15 Lessons I Learned Building My AI Habit App (Jus... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: How do you avoid multitasking traps?... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Help me validate my app ideas please!... Score: 30
+INFO:app.services.lead_filter:AI Analysis - Post: [Pre-Launch] I’m building a B2B AI SaaS to fix a p... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Eu criei uma Startup em 10 horas no Lovable: Conhe... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Built a simple voice-to-idea web app that turns sp... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: what CRM tools do you use?... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: Day 4 Update: We just launched the listings page 🚀... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: How much do you pay monthly for AI subscriptions?... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: 🎯 Built a free tool to download Meta Ads Library v... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: my subscription tracker gets traffic but no users ... Score: 57
+INFO:app.services.lead_filter:AI Analysis - Post: Built a tool powered by AI that auto-clips key eve... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: I built the cheapest Voice AI out there: roast me... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: $95k/month with under 5k installs - Here's what su... Score: 40
+INFO:app.services.lead_filter:AI Analysis - Post: Has anyone worked with a german seo/geo agency bef... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: CopyMagic: My first $1000 from a small desktop app... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: Built something to help students feel what careers... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: https://www.instagram.com/p/rfVw0QE3c1/... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: My App made $15k/m MRR... Score: 13
+INFO:app.services.lead_filter:AI Analysis - Post: Founders: Which step after the initial cold email ... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: 💭 Building what resonates > building what people w... Score: 9
+INFO:app.services.lead_filter:AI Analysis - Post: A platform to post your product updates, build wai... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: How I Turned a Simple Habit Tracker Into a $15K/Mo... Score: 13
+INFO:app.services.lead_filter:AI Analysis - Post: Pitch your SaaS in 3 words 👈👈👈... Score: 4
+INFO:app.services.lead_filter:AI Analysis - Post: Launching My Braces Tracker — AI-assisted progress... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: Is there a marketplace specifically for selling an... Score: 36
+INFO:app.services.lead_filter:AI Analysis - Post: Share your startup, I’ll give you 5 leads source t... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: How I Got 140+ Waitlist Signups in Just 5 Days Aft... Score: 67
+INFO:app.services.lead_filter:AI Analysis - Post: We built Sparkboard - turning your saved travel li... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for a co-founder for my saas... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: How to Actually Market on Reddit
+Without Getting D... Score: 49
+INFO:app.services.lead_filter:AI Analysis - Post: How to find right sales chanel?... Score: 30
+INFO:app.services.lead_filter:AI Analysis - Post: Got a product? Drop it here... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: My SaaS made $20k in 10 months. Here's what I did ... Score: 63
+INFO:app.services.lead_filter:AI Analysis - Post: As a Solo Developer Built a $20K/Month Chrome Exte... Score: 61
+INFO:app.services.lead_filter:AI Analysis - Post: I analyzed 100+ frustrations from Reddit , here ar... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: Help with marketing... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: My entire AI product collapsed when the scrapers s... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Is Bad UX slowing your progress?... Score: 51
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for Affiliates... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: How we got 2,000 customers from consistent ads and... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: Is there a marketplace specifically for selling an... Score: 40
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for a marketing co-founder for my saas... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Leaving a “made-it” finance job to start over as a... Score: 66
+INFO:app.services.lead_filter:AI Analysis - Post: I picked an IT vendor for ERP just because they ha... Score: 29
+INFO:app.services.lead_filter:AI Analysis - Post: I built a insightful news agent for founders going... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for a non-tech person long term... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: I want to be successful online... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: 3 months ago, I decided to start building apps in ... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Testing a subscription model for design + dev... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: What website/software do you wish to be built that... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: What can I do going forward?... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Most platforms, ai startups may die... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: I struggle with time management and focus, so I’m ... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: Affiliate Management Software Recommendations/Expe... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: How easy or tough is it to get a working team off ... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: What's the difference between an AI prototype and ... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: Where do you go after you have accomplished THAT m... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: Anyone else notice GPT stopped pulling from Reddit... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: I'm looking for a Co-Founder... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: i dont know what to do. should i give up? should i... Score: 57
+INFO:app.services.lead_filter:AI Analysis - Post: How do I validate a business idea that I have for ... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Where can I get some mentorship for helping me bui... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: Someone asked for my 4-step framework for finding ... Score: 42
+INFO:app.services.lead_filter:AI Analysis - Post: We stopped using cold emails and switched to verif... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Marketplace Tuesday! - October 07, 2025... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for Advice to Grow a Small App & Software ... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: What is your favorite AI hack every entrepreneur s... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: Don't start a business if you love doing a trait... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: Why AI entrepreneurship is becoming the fastest-gr... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: Need help in nailing down my "dream outcome"... Score: 61
+INFO:app.services.lead_filter:AI Analysis - Post: Hey ! Looking for people with knowledge on EV char... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: Feedback Needed: Instagram & Website Review... Score: 54
+INFO:app.services.lead_filter:AI Analysis - Post: Need help designing payment/price model for expert... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: Advice on equity split for start up... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: Advice Needed for a Small Cloud kitchen Delivery s... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: How do you validate busineseses before you go all ... Score: 29
+INFO:app.services.lead_filter:AI Analysis - Post: What’s the thing you do to get the entrepreneur “b... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Has anyone had experience attending Small Business... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: Dumb entrepreneurs use AI to replace; smart ones u... Score: 13
+INFO:app.services.lead_filter:AI Analysis - Post: Second Thoughts... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Need your suggestion... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: Maintaining motivation when no one is interested i... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: Investments in onlyfans?... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: Cofounder horror stories - what have you experienc... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: How did you find your perfect cofounder?... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Past corporate slaves, when did you realise that t... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: Struggling to get clients for my web design agency... Score: 70
+INFO:app.services.lead_filter:AI Analysis - Post: Question about providing professional services out... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: Private Mortgage Insurance (PMI) Cancellation... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: They paid employees’ rent, pulled off Christmas mi... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Thoughts on best bookeeping services for entrepren... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: How would you market a habit-building productivity... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: How much should I charge for full-time marketing w... Score: 21
+INFO:app.services.lead_filter:AI Analysis - Post: Be honest: would you pay for this?... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: Seeking Rec's for LA-based Entertainment Accountan... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: Got decent SEO rankings with AI help but conversio... Score: 77
+INFO:app.services.lead_filter:AI Analysis - Post: Made some money, built nothing real. Now I am stuc... Score: 51
+INFO:app.services.lead_filter:AI Analysis - Post: I made my first $1.... from farts... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: OpenAI just launched a competitor to what we've be... Score: 37
+INFO:app.services.lead_filter:AI Analysis - Post: I built a prison and called it a business...and yo... Score: 45
+INFO:app.services.lead_filter:AI Analysis - Post: Quit tomorrow... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: I feel the "young entrepreneur" hype is undeserved... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: Where do you learn about business?... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Business has generated lots of money, but is now s... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: I have growth addiction... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Graveyard of bad ideas (long)... Score: 54
+INFO:app.services.lead_filter:AI Analysis - Post: Wife wants to start a business, but is relying on ... Score: 59
+INFO:app.services.lead_filter:AI Analysis - Post: Considering career change to owning motel/restaura... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: Could I sell my Real Estate Media business?... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Sales tax/VAT/GST for small business owners based ... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Do bookkeepers really need their clients to be on ... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: Free source to find ad ideas... Score: 21
+INFO:app.services.lead_filter:AI Analysis - Post: Affiliate Management Software Recommendations/Expe... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: Anyone else getting crushed by these new trade tar... Score: 45
+INFO:app.services.lead_filter:AI Analysis - Post: My friend is asking for a 30% commission fee for s... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: Building a small local food business from the grou... Score: 29
+INFO:app.services.lead_filter:AI Analysis - Post: How Service Businesses Can Build a Powerful Referr... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: Starting a small call center in Egypt to support U... Score: 42
+INFO:app.services.lead_filter:AI Analysis - Post: Employee quit moved to Japan with our $5000 laptop... Score: 51
+INFO:app.services.lead_filter:AI Analysis - Post: How are small businesses using AI (like voice or c... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: I'm so over Etsy...... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: i dont know what to do. should i give up? should i... Score: 57
+INFO:app.services.lead_filter:AI Analysis - Post: I sold 17 calling agents so far and here's my jour... Score: 40
+INFO:app.services.lead_filter:AI Analysis - Post: Starting a small cafe in Delhi. Looking for tips a... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: Legal advice... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: Event agencies/venues — how do you tell if a AV qu... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: Contact form or email button?... Score: 12
+INFO:app.services.lead_filter:AI Analysis - Post: am I in over my head starting an IT MSP with only ... Score: 52
+INFO:app.services.lead_filter:AI Analysis - Post: How often do people call your business asking abou... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: How do I validate a business idea that I have for ... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: My sister just started a cleaning biz - need advic... Score: 36
+INFO:app.services.lead_filter:AI Analysis - Post: If I want to expand my business overseas, is it be... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for a route planner with specific features... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: Used game business... Score: 46
+INFO:app.services.lead_filter:AI Analysis - Post: Need help with designing pricing/payment model for... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: Business Idea validation- Smb's... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: Banshee boutique!... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Advice Needed for a Small Cloud kitchen Delivery s... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: What’s better: manual personalization or automatio... Score: 40
+INFO:app.services.lead_filter:AI Analysis - Post: More than half of businesses listed for sale cost ... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: All in one tool for small business... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: I need feedback on my Esty shop... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Looking to open a playcenter in my area.... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: How do you get a well paid job at a startup?... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: Starting an LLC “early”... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Starting new music centre/learning centre... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: Any small business here needs automation (for free... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: What’s your daily thing?... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: My first client just hit $10K in monthly revenue. ... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Small business question: Do I need an external web... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: Exploring How People Start Side Hustles or Small B... Score: 12
+INFO:app.services.lead_filter:AI Analysis - Post: Maintaining motivation when no one is interested i... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: PayCosmos (Linked2Pay) – Approved Merchant Account... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: Clothing brand for men between 6’ and 6’4”... Score: 12
+INFO:app.services.lead_filter:AI Analysis - Post: Beauty supply vending machines for college campuse... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Customer Base?... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: Advice on setting up non-profit for youth basketba... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: Promote your business, week of October 6, 2025... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Best startup website... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Inherited a small business. HELP... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: What is the best website builder for a small busin... Score: 9
+INFO:app.services.lead_filter:AI Analysis - Post: How do I promote my tea shop so people come hang o... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Torn between my corporate job and starting my own ... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Lessons from big brands: Do we rebrand, or should ... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: Is it "safe" to have my vendors license and busine... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Wat to do regarding my unschooling idea... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: Patent lawyer investor entity question... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: Billionaire's son pitches 'ultimate man cave' to i... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: How do I validate a business idea that I have for ... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: We started a cola distributorship, need help/tips ... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: Anybody up from Morocco and Gulf state... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Verizon names former PayPal boss Dan Schulman as n... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: What usually happens to small businesses when the ... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: Hey everyone, how do you usually handle scheduling... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: When to bring on a cofounder?... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Cofounder agreements: What to include?... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Help me find a cofounder... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: As Microsoft lays off thousands and jacks up Game ... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Question about four days week in coverage jobs... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Apps for keeping business expense receipts... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: AMD stock skyrockets 35% as OpenAI looks to take s... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Craft Breweries Struggle as Sales and Appetites Wa... Score: 9
+INFO:app.services.lead_filter:AI Analysis - Post: Dhan raises $120 million from Hornbill Capital and... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: I would like to ask if anyone knows websites or su... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: Hertz will let customers do entire car buying proc... Score: 2
+INFO:app.services.lead_filter:AI Analysis - Post: Taylor Swift Sells 2.7 Million Copies of ‘The Life... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: Sharpie Found a Way to Make Pens More Cheaply—By M... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Starting a supply business... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: The Mysterious Billionaire Boss at Jane Street Sma... Score: 0
+INFO:app.services.lead_filter:Score distribution: min=25, max=80, avg=40.8
+INFO:app.services.lead_filter:Score ranges: 25-34: 51, 35-49: 63, 50+: 32
+INFO:app.services.lead_filter:AI-enhanced filtering: 401 posts down to 146 high-relevance leads (25+ threshold)
+Starting Reddit Lead Finder MVP server...
+INFO:     127.0.0.1:55437 - "POST /api/leads/search HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55556 - "GET /api/leads/business-options HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55557 - "GET /api/leads/industry-options HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55576 - "OPTIONS /api/leads/search HTTP/1.1" 200 OK
+INFO:app.routers.leads:Received lead search request: business='SaaS Companies', industry='None', problem='struggling to get users'
+INFO:app.routers.leads:Searching in subreddits: ['SaaS', 'startups', 'IndieHackers', 'EntrepreneurRideAlong', 'entrepreneur', 'smallbusiness', 'business']
+INFO:app.services.reddit_service:Fetching 100 posts from r/SaaS (time_range: last_month)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 98 unique posts from r/SaaS
+INFO:app.services.reddit_service:Fetching 100 posts from r/startups (time_range: last_month)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 91 unique posts from r/startups
+INFO:app.services.reddit_service:Fetching 100 posts from r/IndieHackers (time_range: last_month)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 97 unique posts from r/IndieHackers
+INFO:app.services.reddit_service:Fetching 100 posts from r/EntrepreneurRideAlong (time_range: last_month)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 90 unique posts from r/EntrepreneurRideAlong
+INFO:app.services.reddit_service:Fetching 100 posts from r/entrepreneur (time_range: last_month)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 96 unique posts from r/entrepreneur
+INFO:app.services.reddit_service:Fetching 100 posts from r/smallbusiness (time_range: last_month)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 98 unique posts from r/smallbusiness
+INFO:app.services.reddit_service:Fetching 100 posts from r/business (time_range: last_month)
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+WARNING:praw:It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+INFO:app.services.reddit_service:Successfully fetched 91 unique posts from r/business
+INFO:app.routers.leads:Fetched 661 total posts from Reddit
+INFO:app.services.lead_filter:Starting AI-enhanced filtering for 661 posts
+INFO:app.services.lead_filter:Time filtering (backup): 661 posts -> 655 posts (time_range: last_month)
+INFO:app.services.lead_filter:AI-enhanced filtering: 655 time-filtered posts with enhanced query: struggling to get users
+INFO:app.services.lead_filter:AI Analysis - Post: Spotify CEO shared how to build a $146B company fr... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: My SaaS was used for p*rn and now it makes $3k/mon... Score: 58
+INFO:app.services.lead_filter:AI Analysis - Post: My app makes $14k/mo and I haven’t told my family... Score: 17
+INFO:app.services.lead_filter:AI Analysis - Post: SaaS is already dead but no one wants to admit it... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: My app makes $00k/mo and I haven’t told my family... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: I quit my job, cloned apps, and now run 3 SaaS mak... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: Our competitor’s CEO just signed up on our website... Score: 2
+INFO:app.services.lead_filter:AI Analysis - Post: The $1 Hack That Kills the Freemium Trap... Score: 30
+INFO:app.services.lead_filter:AI Analysis - Post: After building 17+ MVPs, here's the tech stack we ... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: This hack is now of the most powerful I know to ge... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: I'm tired 😩... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: I MADE $20K ON MY SAAS WITH A SINGLE IG REEL... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: A founder offered a user 50% off for life. His rea... Score: 57
+INFO:app.services.lead_filter:AI Analysis - Post: What 30k Free Users Taught Me About Charging $10/M... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: Pitch ur startup in 1 line... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Cofounder just locked me out of the repo… over equ... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: found an interesting tool on hugging face that rem... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: My app is finally clicking 🚀🚀🚀... Score: 13
+INFO:app.services.lead_filter:AI Analysis - Post: I personally emailed every single user who churned... Score: 46
+INFO:app.services.lead_filter:AI Analysis - Post: Get your SAAS featured on MSN News & Google News... Score: 21
+INFO:app.services.lead_filter:AI Analysis - Post: Build this and I'll 100% pay for it and very likel... Score: 52
+INFO:app.services.lead_filter:AI Analysis - Post: The lessons I learned scaling my app from $0 to $2... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: finally reached 10k mrr with my app, here's what w... Score: 48
+INFO:app.services.lead_filter:AI Analysis - Post: How I grew my language learning app to 100s of use... Score: 80
+INFO:app.services.lead_filter:AI Analysis - Post: My first startup fixed interview prep,  Now my sec... Score: 48
+INFO:app.services.lead_filter:AI Analysis - Post: I’m a 47-year-old dad of a 6-year-old little girl.... Score: 30
+INFO:app.services.lead_filter:AI Analysis - Post: Most SaaS sites are useless. Do this instead.... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: Just hit $24k/mo with my AI Blog SaaS... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: How I spent more than $60K in less than a month... Score: 34
+INFO:app.services.lead_filter:AI Analysis - Post: Made $24K this month with my 4-month-old SaaS, her... Score: 46
+INFO:app.services.lead_filter:AI Analysis - Post: Building Strong Small Serious Founder Community. J... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: Make it make sense.. Our payroll provider costs mo... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: Stop it guys nobody interested in your AI suggeste... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: From a “million dollar idea” to realizing I had 10... Score: 21
+INFO:app.services.lead_filter:AI Analysis - Post: What AI traffic monitoring services do you use?... Score: 9
+INFO:app.services.lead_filter:AI Analysis - Post: Google Gemini Could Bypass Your SaaS Website... Score: 40
+INFO:app.services.lead_filter:AI Analysis - Post: I finally made $500+ in revenue...🚀🚀... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: 1,000+ places to promote your startup (and it’s fr... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: I analyzed the SEO of all 50 AI Tools startups act... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: How I Got 50 Free Visitors a Day by Listing My Saa... Score: 46
+INFO:app.services.lead_filter:AI Analysis - Post: This AI bubble might be nastier than the dot.com... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: Free TikTok content advice... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: "Cancel Subscription" is the most important button... Score: 36
+INFO:app.services.lead_filter:AI Analysis - Post: What are you building? Share your product !!... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: Do B2B founders underestimate how much authority m... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: 18 months ago I was in rehab. Today my SaaS hit $4... Score: 92
+INFO:app.services.lead_filter:AI Analysis - Post: Stop building B2C as a first time founder (serious... Score: 68
+INFO:app.services.lead_filter:AI Analysis - Post: Imagine how many founders make billions and we hav... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Burned $12K on SaaS Ideas. Thinking About Boring B... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: What are you guys building right now?... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: New community designed around MRR!... Score: 5
+INFO:app.services.lead_filter:AI Analysis - Post: I am losing, on average $250~ per month and absolu... Score: 80
+INFO:app.services.lead_filter:AI Analysis - Post: Extended my free trial from 3 → 7 days — and conve... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: I'm tired of validating ideas that never amount to... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: Most SaaS startups don’t fail from bad products, t... Score: 51
+INFO:app.services.lead_filter:AI Analysis - Post: How I made my first million 👇... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Want $6M ARR as a Solopreneur? Study Cluely’s Chao... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: White Label job board software needed... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Would you like to manage calendar directly from yo... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Hit $1,000 MRR with Meku in 3 months 🚀 (AI-powered... Score: 37
+INFO:app.services.lead_filter:AI Analysis - Post: What apps do you use for social media marketing?... Score: 9
+INFO:app.services.lead_filter:AI Analysis - Post: How do you know if no one needs your product. vs y... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: Boring businesses with real problems, where they a... Score: 68
+INFO:app.services.lead_filter:AI Analysis - Post: Just created my first app any advice is much appre... Score: 56
+INFO:app.services.lead_filter:AI Analysis - Post: To My 20-Year-Old Self: Don’t Build a SaaS Until Y... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: Why does most apps become either reddit leads find... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Why your SaaS isn’t growing - even though people s... Score: 52
+INFO:app.services.lead_filter:AI Analysis - Post: The US hikes foreign talent visa fees to $100K... ... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Built a free platform to help founders find their ... Score: 47
+INFO:app.services.lead_filter:AI Analysis - Post: How do you validate a SaaS idea without spending m... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: I Tested 5+ AI Headshot Tools for LinkedIn & X — H... Score: 45
+INFO:app.services.lead_filter:AI Analysis - Post: Most SaaS founders don’t have a marketing problem,... Score: 46
+INFO:app.services.lead_filter:AI Analysis - Post: Is it hard to sell a documentation-related service... Score: 45
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for simple but useful SaaS ideas to build... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: Micro-SaaS Idea: Menu Price Calculator for Restaur... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: Built a semantic AI search for WooCommerce — tryin... Score: 49
+INFO:app.services.lead_filter:AI Analysis - Post: FinTech Founders: Is vendor-vetting one of the wor... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: From $0 to $500+ revenue in my 1st month. Here's w... Score: 34
+INFO:app.services.lead_filter:AI Analysis - Post: Looking to connect with people who use videos in m... Score: 45
+INFO:app.services.lead_filter:AI Analysis - Post: No crazy metrics. No success story. Just a working... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: Managing Multiple Email Addresses... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: looking for contributors for an open-source fireba... Score: 29
+INFO:app.services.lead_filter:AI Analysis - Post: Maintaining motivation when no one is interested i... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: Why do 70% of GTM plans fail?... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: Are u saas founder?... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: Found an RLS Bug in Post-Bridge ($10k+ MRR) That L... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: Cost-Effective Compliance Recommendations for SOC ... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: SaaS! What do you use for app-to-app data sync?... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: launched it but perfecting my yh stocks / finance ... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: We're turning social media scheduling into AI Cont... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Where can I invest in micro SaaS companies?... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: I tried all tools to make my images for posting on... Score: 2
+INFO:app.services.lead_filter:AI Analysis - Post: Those companies managing multiple projects or team... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: PMF / Crossing the Chasm Consultants Out There?... Score: 57
+INFO:app.services.lead_filter:AI Analysis - Post: I’m building Voxa — an AI content tool that turns ... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: Building a tool that matches your skills to SaaS o... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: I built a GoCardless Receipt Sender to automatical... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: My two year old bootstrapped startup does $1.7 mil... Score: 40
+INFO:app.services.lead_filter:AI Analysis - Post: Just closed a $50M+ acquisition (I will not promot... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: $100k H1B fee/year/visa is a government-sponsored ... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: How I attracted 3 VCs in 6 hours while developing ... Score: 48
+INFO:app.services.lead_filter:AI Analysis - Post: Mentor offered me $15k for 35% of my startup , sho... Score: 30
+INFO:app.services.lead_filter:AI Analysis - Post: The company is dying, I will not promote... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: Wearing MAGA apparel to investor meetings? I will ... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: VCs: "We invest at the earliest stage!" (But also,... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: dear a16z, you're not funding a productivity app, ... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Where are the GenZ multi millionaires and billiona... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: YC vs SkyDeck (i will not promote)... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Most of you just don't want to do the work - i wil... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: The big tech cabal has engineered this AI startup ... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: What happens when you reject a $20M acquisition of... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: $5M ARR after 10 years (I will not promote)... Score: 60
+INFO:app.services.lead_filter:AI Analysis - Post: I 10x'd my cold outreach reply rate by optimizing ... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: Am I being lowballed as a 'Founding Technical Part... Score: 42
+INFO:app.services.lead_filter:AI Analysis - Post: How are small startups finding good product design... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: How much I paid Google/OpenAI and sold 2 t-shirts ... Score: 66
+INFO:app.services.lead_filter:AI Analysis - Post: Second time founders - biggest mistake you overloo... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Offered 0.5% equity for 3 months’ work building a ... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: Why I Stopped Believing Startups Need Offices for ... Score: 54
+INFO:app.services.lead_filter:AI Analysis - Post: 40k revenue and 29.000 users.. now what? - I will ... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: Has anyone actually made consumer automotive work ... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Most founders build first, market later. We're doi... Score: 62
+INFO:app.services.lead_filter:AI Analysis - Post: 10,000 visitors in 4 months… but only $248 revenue... Score: 58
+INFO:app.services.lead_filter:AI Analysis - Post: Competitor asked for a chat, should I be careful? ... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: How do VCs run due diligence to catch dishonest fo... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Fair equity split? Built an app with a friend but ... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: I don't think you should go looking for a co-found... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: Why aren’t more deep tech startups betting on hard... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: A tier I vc invited us to pitch to them, but... [I... Score: 29
+INFO:app.services.lead_filter:AI Analysis - Post: Exploitative Unpaid "Work Trials" in Tech - My Exp... Score: 34
+INFO:app.services.lead_filter:AI Analysis - Post: Need advice. Co-founder killed deal three months a... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: Stop chasing millions. Focus on your first 10 user... Score: 57
+INFO:app.services.lead_filter:AI Analysis - Post: One of my competitors created a trial account, cop... Score: 40
+INFO:app.services.lead_filter:AI Analysis - Post: What's the no. 1 thing killing your signup form co... Score: 59
+INFO:app.services.lead_filter:AI Analysis - Post: Doubling headcount fast, how do you maintain compa... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: What's the funniest investor rejection line you've... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: banging my head against the wall. I WILL NOT PROMO... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: When startups fail, where does the talent go? (I w... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: Is it worth seeking investors when you have the mo... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: 2 months in, still no paid users is this normal? I... Score: 42
+INFO:app.services.lead_filter:AI Analysis - Post: Cold outreach won’t work for your startup. Here’s ... Score: 34
+INFO:app.services.lead_filter:AI Analysis - Post: Foreign founder, bootstrapping: Do the new $100k H... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: Ex-Apple Techstars alum looking for co-founder for... Score: 17
+INFO:app.services.lead_filter:AI Analysis - Post: What are the startup credit programs you used? {I ... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: What’s your favorite quote about building startups... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: stop cold emailing like this, please 😬 [i will not... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: Building a SaaS Company - how much equity for my c... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: [Hiring/Seeking/Offering] Jobs / Co-Founders Weekl... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: Co-founders don't get basic startup principles. I ... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: How do you actually get investor visibility today?... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: Replit’s 9-Year Grind: How Many of Us Can Stay the... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: Advice on funding, I will not promote... Score: 71
+INFO:app.services.lead_filter:AI Analysis - Post: Should I Drop Co-founder? (I will not promote)... Score: 55
+INFO:app.services.lead_filter:AI Analysis - Post: FinTech Founders: Is vendor-vetting one of the wor... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Is the hardest thing is to launch? what that even ... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: When did you realize your startup idea wasn’t wort... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: How do you get your first customers/revenue in B2B... Score: 29
+INFO:app.services.lead_filter:AI Analysis - Post: 50 MW Solar Park in Rajasthan Open Access Model | ... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: my friend left goldman to build an atta(flour) bra... Score: 2
+INFO:app.services.lead_filter:AI Analysis - Post: Website (SaaS) vs Phone App? - i will not promote... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: Should co-founders pay each other commission if on... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: How to screw a company! “I will not promote”... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: Advisor Equity Options or Common Stock - I will no... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: When does an outreach system becomes important for... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: Anyone hiring interns? - I will not promote... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: why don't more tools have proper figma integration... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: You are not a Startup if you are doing this, i wil... Score: 5
+INFO:app.services.lead_filter:AI Analysis - Post: Thoughts on co-ceo title - worth exploring or nay?... Score: 42
+INFO:app.services.lead_filter:AI Analysis - Post: Why do YOU believe your startup will be a success?... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: Is "hyper-personalized video" a dead end or a good... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: I feel like I want to exit my startup - what shoul... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: From unicorn to scrap paper! “I will not promote”... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: Marketing Suggestions “i will not promote”... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: what’s one underrated business idea are still wide... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: $500k, yea… thats the power of connections 😭 [i wi... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Business has hit a wall "i will not promote"... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: Share split models for founders with different tim... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: LinkedIn creators: How do you decide which followe... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: I will not promote for sure...Funding advice neede... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Time spent on infrastructure vs features, i will n... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: are you building in dating and marriage sspace ? I... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: For B2B businesses, what's your best channel(s) fo... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: What 5 Million Entrepreneurs Taught Me Today: Abou... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: Question on going it solo - I will not promote... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: Need some career guidance - next steps as a founde... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: Advice: Technical Advisor Role - cash or equity (I... Score: 50
+INFO:app.services.lead_filter:AI Analysis - Post: How to fix my mind to be "more selling" and "makin... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: I burned 800K on 6 employees in 2 years. Here’s wh... Score: 40
+INFO:app.services.lead_filter:AI Analysis - Post: How can I be broke at 46 as a senior engineering m... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: Think twice before doubling down on startups / sid... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: The lessons I learned scaling my app from $0 to $2... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: We couldn’t stand shipping “AI template” UIs anymo... Score: 21
+INFO:app.services.lead_filter:AI Analysis - Post: I grew my AI interior design tool's daily traffic ... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: Scaled my SaaS from $0 to $500K ARR in 8 months wi... Score: 53
+INFO:app.services.lead_filter:AI Analysis - Post: What are you building in 2025? Drop your project!... Score: 30
+INFO:app.services.lead_filter:AI Analysis - Post: What are you building? Share your product !!... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: My SaaS made $20k in 10 months. Here's what I did ... Score: 63
+INFO:app.services.lead_filter:AI Analysis - Post: What are you building? Drop your project!... Score: 49
+INFO:app.services.lead_filter:AI Analysis - Post: Stuck in a build–abandon loop for 5+ years. Need r... Score: 42
+INFO:app.services.lead_filter:AI Analysis - Post: 999+ free places to promote your SAAS... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Built an app that pays you for spare luggage space... Score: 66
+INFO:app.services.lead_filter:AI Analysis - Post: why i will never discourage another founder again... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: What are you building these days? And is anyone ac... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: How I Picked A Startup Idea Worth Millions (And Cl... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: From $0 to $6K MRR in 12 months by copying success... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: Share your startup, I’ll find you 5 potential cust... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: Pitch your SaaS in 3 words 👈👈👈... Score: 4
+INFO:app.services.lead_filter:AI Analysis - Post: Stop making API calls to Postmark, get production-... Score: 37
+INFO:app.services.lead_filter:AI Analysis - Post: The 8 week zero budget link building sprint that d... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: What are you building? Share your product !!... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: Made $24K this month with my 4-month-old SaaS, her... Score: 46
+INFO:app.services.lead_filter:AI Analysis - Post: Share a link to your SAAS and I will reply with a ... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: What are you building? [One liner pitch]... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: I want to offer 1:1 coaching online, but setting u... Score: 37
+INFO:app.services.lead_filter:AI Analysis - Post: Share your startup, I’ll give you 5 leads source t... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: How do you actually get your first paying customer... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Got a product? Drop it here... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: 3 weeks, 64 calls, 27 hours. Llogged my experiment... Score: 13
+INFO:app.services.lead_filter:AI Analysis - Post: How I Got My First 10 Paying Customers 🎉 Only From... Score: 49
+INFO:app.services.lead_filter:AI Analysis - Post: What are you building today?... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: Monday is on the way! Share your exciting project ... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: “After Launch” SEO i actually follow (because i ke... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: What’s the most non-obvious thing that made your s... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Pitch Your SaaS in One Line (and Share the Link)... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Being a founder / CEO is hard... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: Share Your Own Projects With The Community... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: You guys drop your website, I’ll give you my hones... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: Building traffic without a marketing team?... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: Ready to launch, but how do I actually reach the r... Score: 67
+INFO:app.services.lead_filter:AI Analysis - Post: Share your startup, I’ll give you 5 leads source t... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: The exact steps I took to validate my idea before ... Score: 68
+INFO:app.services.lead_filter:AI Analysis - Post: In less than 72 hours, I managed to rank at the ve... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: What are you building this week? Let’s share the s... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: No one talks about how lonely building a startup r... Score: 53
+INFO:app.services.lead_filter:AI Analysis - Post: The “copy their sequence” 4‑week challenge: pick 4... Score: 34
+INFO:app.services.lead_filter:AI Analysis - Post: I created a product hunt alternative to list your ... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: What are you building? Lets share some feedback..... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: How do you promote your startup here in Reddit?... Score: 52
+INFO:app.services.lead_filter:AI Analysis - Post: How do y'all find conviction to go after an idea o... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: Is it worth starting to build a SaaS without fully... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: I tested 4 demo formats with 12 B2B products.... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Rebuilding Publer’s Zapier integration! What would... Score: 13
+INFO:app.services.lead_filter:AI Analysis - Post: Boring businesses with real problems, where they a... Score: 68
+INFO:app.services.lead_filter:AI Analysis - Post: Is building another AI coding agent/editor worth i... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: 15 Lessons I Learned Building My AI Habit App (Jus... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: FinTech Founders: Is vendor-vetting one of the wor... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Looking to buy, Loan, and invest in SAAS companies... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: Reddit kept burying my launch posts — so I built a... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: Micro-SaaS Idea: Menu Price Calculator for Restaur... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: Built a simple voice-to-idea web app that turns sp... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: Help me validate my app ideas please!... Score: 30
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for Feedback: Launching a Low-Code Backend... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: ShootCraft is live on ProductHunt.🚀... Score: 30
+INFO:app.services.lead_filter:AI Analysis - Post: Built a tool to check if ChatGPT can see your cont... Score: 49
+INFO:app.services.lead_filter:AI Analysis - Post: The founder's dilemma: How do you distinguish betw... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Building a Business Data Graph to give lenders and... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: We built Chopdi AI — an AI-native note-taking “sec... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: How much do you pay monthly for AI subscriptions?... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Share your startup, I’ll give you 5 leads source t... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: [SHOW IH] PM AutoTwin - One-click CAD/3D optimizat... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: How do you avoid multitasking traps?... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: [Pre-Launch] I’m building a B2B AI SaaS to fix a p... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Eu criei uma Startup em 10 horas no Lovable: Conhe... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: my subscription tracker gets traffic but no users ... Score: 57
+INFO:app.services.lead_filter:AI Analysis - Post: How I Got 140+ Waitlist Signups in Just 5 Days Aft... Score: 67
+INFO:app.services.lead_filter:AI Analysis - Post: what CRM tools do you use?... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: I built the cheapest Voice AI out there: roast me... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: Day 4 Update: We just launched the listings page 🚀... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: 🎯 Built a free tool to download Meta Ads Library v... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: As a Solo Developer Built a $20K/Month Chrome Exte... Score: 61
+INFO:app.services.lead_filter:AI Analysis - Post: Built a tool powered by AI that auto-clips key eve... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: I analyzed 100+ frustrations from Reddit , here ar... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: Help with marketing... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: $95k/month with under 5k installs - Here's what su... Score: 40
+INFO:app.services.lead_filter:AI Analysis - Post: Has anyone worked with a german seo/geo agency bef... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: We built Sparkboard - turning your saved travel li... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: CopyMagic: My first $1000 from a small desktop app... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: How to find right sales chanel?... Score: 30
+INFO:app.services.lead_filter:AI Analysis - Post: Built something to help students feel what careers... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: https://www.instagram.com/p/rfVw0QE3c1/... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: My App made $15k/m MRR... Score: 13
+INFO:app.services.lead_filter:AI Analysis - Post: Founders: Which step after the initial cold email ... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: 💭 Building what resonates > building what people w... Score: 9
+INFO:app.services.lead_filter:AI Analysis - Post: My friend's "artisan" coffee shop is just a £99 Ne... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: Why do most high-achievers avoid entrepreneurship?... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: How much YouTube pays me for 1,000,000 view videos... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: Boring business, big money... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Anyone else's "successful" business actually keepi... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: I finally got 1 user, and they broke my product... Score: 50
+INFO:app.services.lead_filter:AI Analysis - Post: I've Sold Over 500,000 Pairs of Sunglasses in 14 Y... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: Inbound to outbound, how do you adapt your strateg... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: I woke up to 100 $ MRR. I can’t believe it 🥺😍... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Stopped sharing my projects with my wife after yea... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: What’s the dumbest daily task in your business you... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: Hit $11k revenue and 12,876 active users with a si... Score: 51
+INFO:app.services.lead_filter:AI Analysis - Post: Anyone actually started a clothing brand from scra... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: How I went from 20+ years in 9–5 jobs to building ... Score: 54
+INFO:app.services.lead_filter:AI Analysis - Post: I’m 21, about to graduate, and want to start an on... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: ABM vs inbound: which actually delivers faster pip... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: What was your most expensive mistake as a founder?... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: Reddit community butchered my website, so I pivote... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: What AI use cases are actually worth the hype?... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: We got our AWS bill from 25k/mo to 15k Here's what... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: Have we started hating AI already?... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Competitor launched in just 2 weeks with AI… while... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Bootstrapped to $50K ARR with a 90% AI workforce (... Score: 12
+INFO:app.services.lead_filter:AI Analysis - Post: this project started as me fixing my own burnout… ... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: How Do You Sell If Speaking Is Your Weakness?... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: I want to be successful online... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: 17 and just started my own thing after making £5k ... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: Having 8+ years of experience, but still unemploye... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: I Found My Failed 2016 Website on Wayback Machine.... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: What business would you start with No Money ??... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: Ready to launch, but how do I actually reach the r... Score: 67
+INFO:app.services.lead_filter:AI Analysis - Post: Don’t waste time promoting on TikTok/Instagram if ... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Bootstrapped an American-made CPG product with a c... Score: 46
+INFO:app.services.lead_filter:AI Analysis - Post: Why do so many creators burn out before their chan... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: Views and conversions are not in the same game.... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: How do you find your first real audience when mone... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: How can I market a landing page to get a great amo... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: Balancing product building with marketing is burni... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: I can never stick to anything so now it’s time... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Anyone else working a job just to fund the early s... Score: 34
+INFO:app.services.lead_filter:AI Analysis - Post: Feeling like nobody... Score: 12
+INFO:app.services.lead_filter:AI Analysis - Post: You can build an 8-figure company and still feel l... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: $0 in my pocket, broke, bipolar and burned out... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: 22M, finance degree, working at a gym, 23k student... Score: 53
+INFO:app.services.lead_filter:AI Analysis - Post: My failed experience selling a business... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: I picked an IT vendor for ERP just because they ha... Score: 29
+INFO:app.services.lead_filter:AI Analysis - Post: New investor trying to get it... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: How do you market your business... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: My 18 learnings after growing my app from $0 to $5... Score: 47
+INFO:app.services.lead_filter:AI Analysis - Post: Here’s how I make $40K/mo running an online crypto... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for Affiliates... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: Is Bad UX slowing your progress?... Score: 51
+INFO:app.services.lead_filter:AI Analysis - Post: My entire AI product collapsed when the scrapers s... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: How we got 2,000 customers from consistent ads and... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for a marketing co-founder for my saas... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Is there a marketplace specifically for selling an... Score: 40
+INFO:app.services.lead_filter:AI Analysis - Post: Leaving a “made-it” finance job to start over as a... Score: 66
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for a non-tech person long term... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: I built a insightful news agent for founders going... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Seeing success doing the opposite of everyone else... Score: 75
+INFO:app.services.lead_filter:AI Analysis - Post: If you had 1months to decide whether to continue y... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Switching from a small business to a GmbH – how do... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Accountants: what are your biggest challenges runn... Score: 34
+INFO:app.services.lead_filter:AI Analysis - Post: I’m a dad of 3 brilliant daughters building an AI ... Score: 58
+INFO:app.services.lead_filter:AI Analysis - Post: I Built a Faceless $10K/Month Global Online Busine... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: [Advice Needed] I created a fun ai web app that's ... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: [Advice Needed] I created a directory that curates... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: What I learned about building funnels as a beginne... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: ADVICE ON BUILDING MY BRAND.... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Do you think there's space for a social network ba... Score: 53
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for a partner in the marketing space!... Score: 21
+INFO:app.services.lead_filter:AI Analysis - Post: What’s the most frustrating thing about managing y... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: I'm a doctor from the UK. I have released an app t... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Side hustle... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Dropshipping has 9 lives Part 3: I promised to giv... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: Feeling like every UX choice I make is wrong... Score: 30
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for oversized hoodie & t-shirt blanks (sim... Score: 17
+INFO:app.services.lead_filter:AI Analysis - Post: Built a Shopify ghost-stock detection SaaS — shoul... Score: 17
+INFO:app.services.lead_filter:AI Analysis - Post: Hit my first big roadblock: no one signing up afte... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: A train ride reminded me why I want entrepreneursh... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: Month 3 building in public: my knowledge managemen... Score: 49
+INFO:app.services.lead_filter:AI Analysis - Post: Brutal honesty: why educational popups saved my dr... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: Thank You - Happy to Help... Score: 12
+INFO:app.services.lead_filter:AI Analysis - Post: Stop searching for the perfect bar design. Start l... Score: 55
+INFO:app.services.lead_filter:AI Analysis - Post: My SaaS hit $1,100 monthly in 60 days. Here's what... Score: 63
+INFO:app.services.lead_filter:AI Analysis - Post: Any B2B healthcare SaaS raising right now?... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: My Pinterest pins are finally going viral (thanks ... Score: 64
+INFO:app.services.lead_filter:AI Analysis - Post: You don't have to be an expert. A lot of time it i... Score: 13
+INFO:app.services.lead_filter:AI Analysis - Post: Trying to lock in my first beta testers... Score: 36
+INFO:app.services.lead_filter:AI Analysis - Post: I sell a private jet flights to people who only wa... Score: 34
+INFO:app.services.lead_filter:AI Analysis - Post: How i made $0 with 0$ investment in just 3 months... Score: 5
+INFO:app.services.lead_filter:AI Analysis - Post: Don’t underestimate “boring” businesses... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: Tai Lopez has fallen and I can't be happier.... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: The weird way I win clients by “losing” negotiatio... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: How the hell did a guy selling sponges overseas en... Score: 12
+INFO:app.services.lead_filter:AI Analysis - Post: This is fucking too hard.... Score: 33
+INFO:app.services.lead_filter:AI Analysis - Post: You don’t get a 6-figure business until you start ... Score: 47
+INFO:app.services.lead_filter:AI Analysis - Post: Stopped sharing my projects with my wife after yea... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: I recently sold my company for $600K. AMA!... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: Wife wants to start a business, but is relying on ... Score: 59
+INFO:app.services.lead_filter:AI Analysis - Post: How Did The Richest Self-Made Person You Know, Und... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: I made my first $1.... from farts... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: I validated my startup idea with just a landing pa... Score: 49
+INFO:app.services.lead_filter:AI Analysis - Post: What I learned chasing a flashy startup vs a borin... Score: 17
+INFO:app.services.lead_filter:AI Analysis - Post: Weirdest thing that motivated me to start... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Took me years, but I finally rolled past $480,000.... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: Why do only 0.1% of talented people start startups... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Working 100 hours a week isn’t entrepreneurship. I... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Step by step taking eCom brand from $80k/mo to $30... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: What is an AI tool that actually saves atleast 10 ... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: First client just asked for a refund after 3 month... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Your Brain is Why Your Startup Will Probably Fail... Score: 69
+INFO:app.services.lead_filter:AI Analysis - Post: How do you guys actually switch off?... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: Is it dumb to start a side hustle with only $300?... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: People who started a business in their 20s, how’s ... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: landed my first $20k+ client... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: Startup life isn’t beaches and laptops. It’s sacri... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: How I grew my language learning app to 100s of use... Score: 81
+INFO:app.services.lead_filter:AI Analysis - Post: Why does it feel like everyone is rich?... Score: 48
+INFO:app.services.lead_filter:AI Analysis - Post: Made $1000/mo selling $1 subscriptions. Learned a ... Score: 34
+INFO:app.services.lead_filter:AI Analysis - Post: I feel the "young entrepreneur" hype is undeserved... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: How would you make 100k in one year?... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: which business book actually works in real life?... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: My skillset was replaced by AI. I'm physically dis... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: How do you decide when to pivot vs. push through?... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Where did you find ambitious friends who are inter... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: I get the feeling this sub is mostly used by non e... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Just found out putting yard signs at the exit of t... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: Anyone else go all in on Amazon FBA and now have n... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Social media might be the biggest trap for small b... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: For those who went 1-2 years without income buildi... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: The Myth of “Ideas Are Cheap” and How Founders Kee... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Use European services.... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: How do you fire loyal employees because you are do... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: We went from $0 to $182K/month in 6 months while l... Score: 59
+INFO:app.services.lead_filter:AI Analysis - Post: What are some subtle signs that someone will make ... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: What's the biggest lie you were told about entrepr... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: M 25, Made 200k$ when i was 20 , now in debt . Ski... Score: 58
+INFO:app.services.lead_filter:AI Analysis - Post: Past corporate slaves, when did you realise that t... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: Marketplace Tuesday! - October 07, 2025... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: What is your favorite AI hack every entrepreneur s... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: OpenAI just launched a competitor to what we've be... Score: 37
+INFO:app.services.lead_filter:AI Analysis - Post: I built a prison and called it a business...and yo... Score: 45
+INFO:app.services.lead_filter:AI Analysis - Post: Don't start a business if you love doing a trait... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: Anyone else notice GPT stopped pulling from Reddit... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: How easy or tough is it to get a working team off ... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: What’s the thing you do to get the entrepreneur “b... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: i dont know what to do. should i give up? should i... Score: 57
+INFO:app.services.lead_filter:AI Analysis - Post: 3 months ago, I decided to start building apps in ... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Testing a subscription model for design + dev... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: What website/software do you wish to be built that... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: What can I do going forward?... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Most platforms, ai startups may die... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: I struggle with time management and focus, so I’m ... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: Affiliate Management Software Recommendations/Expe... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: What's the difference between an AI prototype and ... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: Where do you go after you have accomplished THAT m... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: How do you validate busineseses before you go all ... Score: 29
+INFO:app.services.lead_filter:AI Analysis - Post: I'm looking for a Co-Founder... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: Quit tomorrow... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: How do I validate a business idea that I have for ... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Advice on equity split for start up... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: Maintaining motivation when no one is interested i... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: Where can I get some mentorship for helping me bui... Score: 43
+INFO:app.services.lead_filter:AI Analysis - Post: Someone asked for my 4-step framework for finding ... Score: 42
+INFO:app.services.lead_filter:AI Analysis - Post: We stopped using cold emails and switched to verif... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Has anyone had experience attending Small Business... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for Advice to Grow a Small App & Software ... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: Why AI entrepreneurship is becoming the fastest-gr... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: Need help in nailing down my "dream outcome"... Score: 61
+INFO:app.services.lead_filter:AI Analysis - Post: Hey ! Looking for people with knowledge on EV char... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: Second Thoughts... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Feedback Needed: Instagram & Website Review... Score: 54
+INFO:app.services.lead_filter:AI Analysis - Post: Need help designing payment/price model for expert... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: Struggling to get clients for my web design agency... Score: 70
+INFO:app.services.lead_filter:AI Analysis - Post: Where do you learn about business?... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Thoughts on best bookeeping services for entrepren... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Advice Needed for a Small Cloud kitchen Delivery s... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: Business has generated lots of money, but is now s... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: I have growth addiction... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: How did you find your perfect cofounder?... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Dumb entrepreneurs use AI to replace; smart ones u... Score: 13
+INFO:app.services.lead_filter:AI Analysis - Post: Graveyard of bad ideas (long)... Score: 54
+INFO:app.services.lead_filter:AI Analysis - Post: Need your suggestion... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: I have the #1 top post in r/smallbusiness this mon... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: Just got a letter saying my website violates ADA… ... Score: 45
+INFO:app.services.lead_filter:AI Analysis - Post: Do you SEO folks actually think by blasting my inb... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: So How Fucked Are You Next Year Re Health Insuranc... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: I received a call from someone named Paul, claimin... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: 6 Years to Build, 6 Months to Collapse - My Rant... Score: 34
+INFO:app.services.lead_filter:AI Analysis - Post: I stopped chasing the next big thing and finally m... Score: 9
+INFO:app.services.lead_filter:AI Analysis - Post: Employee quit and moved to Japan with our $3000 la... Score: 51
+INFO:app.services.lead_filter:AI Analysis - Post: This sub sucks.... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: META: How many people here have a *real* small biz... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: Bought a restaurant, seller faked financials... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Hiring kids (teens) and paying them 12k/year to he... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: My biggest client asked for a week of free work. I... Score: 55
+INFO:app.services.lead_filter:AI Analysis - Post: Reasonable CEO salary... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: I promoted a great employee to a management positi... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: How to handle a bad experience with American Expre... Score: 56
+INFO:app.services.lead_filter:AI Analysis - Post: Where to Buy Google Reviews from Real People?... Score: 42
+INFO:app.services.lead_filter:AI Analysis - Post: Sick of banks/credit unions treating me like dirt ... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: For small business owners: what’s been your most s... Score: 37
+INFO:app.services.lead_filter:AI Analysis - Post: What makes night clubs so unprofitable in today's ... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Thinking about starting a small business but not s... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: More than half of businesses listed for sale cost ... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Best website builder for small ecom shop?... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: Not everyone's rooting for you. I didn’t expect ol... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: WIX has lost its proverbial mind... Score: 21
+INFO:app.services.lead_filter:AI Analysis - Post: How do you tell long-time clients their bill is go... Score: 34
+INFO:app.services.lead_filter:AI Analysis - Post: Was I not supposed to file for unemployment?... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: Thinking seriously about starting something of my ... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: In my small town of 80k, everyone complains that t... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Is there such a thing as a workforce management pl... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: Products that shouldn’t sell… but did (looking at ... Score: 21
+INFO:app.services.lead_filter:AI Analysis - Post: Landlords leased space 2 doors down to a direct co... Score: 32
+INFO:app.services.lead_filter:AI Analysis - Post: I'm overrun with automated AI marketing... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: My sales rep has missed every goal for 3 months st... Score: 44
+INFO:app.services.lead_filter:AI Analysis - Post: What is the best website builder for a small busin... Score: 9
+INFO:app.services.lead_filter:AI Analysis - Post: Buying a Boba Shop - What Am I Missing?... Score: 48
+INFO:app.services.lead_filter:AI Analysis - Post: What is the best small business payroll software?... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: What is the best website builder for a small busin... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: Every other call and email is some jack off wantin... Score: 9
+INFO:app.services.lead_filter:AI Analysis - Post: I am just starting out and already feeling overwhe... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: My dad made our early employee the “CEO”… but told... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: For those who own a service business (plumbing, hv... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: Added SMS to my Google Business Profile and its AW... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: Spent a whole day training someone yesterday. Toda... Score: 40
+INFO:app.services.lead_filter:AI Analysis - Post: How do you get customers to order directly instead... Score: 29
+INFO:app.services.lead_filter:AI Analysis - Post: I feel like my business is suffering from me being... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: Do you guys think there's still a need/demand for ... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Health insurance feels like a scam… alternatives?... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Started a video studio with friends but somehow I’... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: Anyone here using Fiverr for UGC before holiday se... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: Promote your business, week of October 6, 2025... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: My friend is asking for a 30% commission fee for s... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: Do bookkeepers really need their clients to be on ... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: Contact form or email button?... Score: 12
+INFO:app.services.lead_filter:AI Analysis - Post: My sister just started a cleaning biz - need advic... Score: 36
+INFO:app.services.lead_filter:AI Analysis - Post: Sales tax/VAT/GST for small business owners based ... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: am I in over my head starting an IT MSP with only ... Score: 52
+INFO:app.services.lead_filter:AI Analysis - Post: Legal advice... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: Small business question: Do I need an external web... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: Considering career change to owning motel/restaura... Score: 35
+INFO:app.services.lead_filter:AI Analysis - Post: Could I sell my Real Estate Media business?... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: If I want to expand my business overseas, is it be... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Free source to find ad ideas... Score: 21
+INFO:app.services.lead_filter:AI Analysis - Post: Affiliate Management Software Recommendations/Expe... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: How do you get a well paid job at a startup?... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: What’s better: manual personalization or automatio... Score: 40
+INFO:app.services.lead_filter:AI Analysis - Post: Building a small local food business from the grou... Score: 29
+INFO:app.services.lead_filter:AI Analysis - Post: How Service Businesses Can Build a Powerful Referr... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: Starting a small call center in Egypt to support U... Score: 42
+INFO:app.services.lead_filter:AI Analysis - Post: How are small businesses using AI (like voice or c... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: Looking for a route planner with specific features... Score: 38
+INFO:app.services.lead_filter:AI Analysis - Post: I'm so over Etsy...... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: Used game business... Score: 46
+INFO:app.services.lead_filter:AI Analysis - Post: i dont know what to do. should i give up? should i... Score: 57
+INFO:app.services.lead_filter:AI Analysis - Post: Starting a small cafe in Delhi. Looking for tips a... Score: 39
+INFO:app.services.lead_filter:AI Analysis - Post: Business Idea validation- Smb's... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: Looking to open a playcenter in my area.... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Advice Needed for a Small Cloud kitchen Delivery s... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: Best startup website... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Event agencies/venues — how do you tell if a AV qu... Score: 11
+INFO:app.services.lead_filter:AI Analysis - Post: How often do people call your business asking abou... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: How do I validate a business idea that I have for ... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Starting new music centre/learning centre... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: Inherited a small business. HELP... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: Need help with designing pricing/payment model for... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: Any small business here needs automation (for free... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Banshee boutique!... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Anyone else getting crushed by these new trade tar... Score: 45
+INFO:app.services.lead_filter:AI Analysis - Post: How do I promote my tea shop so people come hang o... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Torn between my corporate job and starting my own ... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: All in one tool for small business... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: I need feedback on my Esty shop... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Starting an LLC “early”... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Lessons from big brands: Do we rebrand, or should ... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: Is it "safe" to have my vendors license and busine... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: What’s your daily thing?... Score: 19
+INFO:app.services.lead_filter:AI Analysis - Post: Exploring How People Start Side Hustles or Small B... Score: 12
+INFO:app.services.lead_filter:AI Analysis - Post: Americans Are Using PTO to Sleep, Not for Vacation... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Disney reportedly lost 1.7 million paid subscriber... Score: 16
+INFO:app.services.lead_filter:AI Analysis - Post: Rite Aid closes all locations across U.S.... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Costco to sell Ozempic and Wegovy at a large disco... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: HBO Max is “way underpriced,” Warner Bros. Discove... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: "Two words: cancel now" - Xbox Game Pass cancelati... Score: 4
+INFO:app.services.lead_filter:AI Analysis - Post: Tesla's stock erases loss for the year, soaring 85... Score: 4
+INFO:app.services.lead_filter:AI Analysis - Post: Starbucks to Close Over 150 Stores Across US, Cana... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Ex-Google exec: The idea that AI will create new j... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Oracle stock gains 36% to post best day since 1992... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: McDonald's criticizes US restaurant industry for u... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: As Microsoft lays off thousands and jacks up Game ... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: U.S. credit scores suffer largest 2-year drop sinc... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Canadian tourism up 30 per cent as U.S. travel con... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Working 100 hours a week doesn’t make you successf... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Sharpie Found a Way to Make Pens More Cheaply—By M... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: US SEC chair says markets can decide 'cadence' of ... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: Walmart to Remove Artificial Dyes as RFK Jr. Press... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Craft Breweries Struggle as Sales and Appetites Wa... Score: 9
+INFO:app.services.lead_filter:AI Analysis - Post: Palantir's stock is up 1,700% since its NYSE debut... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: How JPMorgan Enabled the Crimes of Jeffrey Epstein... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Revenue is just an ego number. Profit is the only ... Score: 2
+INFO:app.services.lead_filter:AI Analysis - Post: The FTC is suing Live Nation and Ticketmaster over... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Alphabet hits $3 trillion in market capitalization... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: StubHub's stock plunges 10% in third day on NYSE a... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Ford CEO Jim Farley expects EV sales to be cut in ... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: America has a Monopoly Problem... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: After 6 years at the top of Nintendo of America, D... Score: 4
+INFO:app.services.lead_filter:AI Analysis - Post: Sony Says PS5 Is the 'Most Successful' PlayStation... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: EA going private in $55 billion deal that will pay... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Intel stock is up 50% over the last month, putting... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Former PM Stephen Harper advises the current Canad... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: AT&T tracked employee attendance to find 'freeload... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Eli Lilly to build $6.5 billion Texas manufacturin... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Tyson Foods to pay $85 million in largest pork pri... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Apple raises iPhone Pro starting price in U.S. for... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Pressure mounts on Disney over Kimmel suspension a... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Nvidia's market cap tops $4.5 trillion after strin... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: ‘Steep decline’ continues: Canada-U.S. travel data... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Disney+, Hulu, ESPN to Hike Prices Again in Octobe... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: RFK Jr.’s Assault on Ultra-Processed Foods Puts Co... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: 'Jimmy Kimmel Live!' return draws 6.26 million vie... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Microsoft is raising prices on Xbox consoles in th... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Buffett's Berkshire totally exits its profitable s... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: StubHub to price IPO at $23.50, valuing company at... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Seoul says US must fix its visa system if it wants... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: Canada’s economy is bad. But the U.S. economy is w... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Microsoft says employees will be expected in offic... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: OpenAI says nonprofit parent will own equity stake... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: What happened to mega-corporations like Kodak & Xe... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Verizon names former PayPal boss Dan Schulman as n... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Billionaire's son pitches 'ultimate man cave' to i... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Hey everyone, how do you usually handle scheduling... Score: 10
+INFO:app.services.lead_filter:AI Analysis - Post: Anybody up from Morocco and Gulf state... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: AMD stock skyrockets 35% as OpenAI looks to take s... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Wat to do regarding my unschooling idea... Score: 31
+INFO:app.services.lead_filter:AI Analysis - Post: Patent lawyer investor entity question... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: How do I validate a business idea that I have for ... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: We started a cola distributorship, need help/tips ... Score: 41
+INFO:app.services.lead_filter:AI Analysis - Post: What usually happens to small businesses when the ... Score: 8
+INFO:app.services.lead_filter:AI Analysis - Post: When to bring on a cofounder?... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Cofounder agreements: What to include?... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Help me find a cofounder... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Hertz will let customers do entire car buying proc... Score: 2
+INFO:app.services.lead_filter:AI Analysis - Post: Question about four days week in coverage jobs... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Apps for keeping business expense receipts... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Dhan raises $120 million from Hornbill Capital and... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: The Mysterious Billionaire Boss at Jane Street Sma... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: I would like to ask if anyone knows websites or su... Score: 28
+INFO:app.services.lead_filter:AI Analysis - Post: Starting a supply business... Score: 25
+INFO:app.services.lead_filter:AI Analysis - Post: Tesla, GM lead record U.S. EV sales this year as f... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: FTC sues Zillow and Redfin, alleging antitrust vio... Score: 5
+INFO:app.services.lead_filter:AI Analysis - Post: How can I scale my prospecting without hitting cre... Score: 18
+INFO:app.services.lead_filter:AI Analysis - Post: HBO Max subscribers lose access to CNN livestream ... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Peloton revamps equipment, launches commercial uni... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: Taylor Swift Sells 2.7 Million Copies of ‘The Life... Score: 1
+INFO:app.services.lead_filter:AI Analysis - Post: What are you doing for more ChatGPT visbility?... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: Small content creator... Score: 23
+INFO:app.services.lead_filter:AI Analysis - Post: What are you guys using to generate forms for your... Score: 27
+INFO:app.services.lead_filter:AI Analysis - Post: Any advice for first time business starter?... Score: 22
+INFO:app.services.lead_filter:AI Analysis - Post: business is harder than i thought... Score: 26
+INFO:app.services.lead_filter:AI Analysis - Post: How do you know a business has "failed" and no lon... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: 19 with 100k in cash - what to do?... Score: 20
+INFO:app.services.lead_filter:AI Analysis - Post: Does a Wikipedia page actually help a small busine... Score: 15
+INFO:app.services.lead_filter:AI Analysis - Post: LinkedIn Competitor Features You Want?... Score: 6
+INFO:app.services.lead_filter:AI Analysis - Post: What sources do you follow to stay updated on star... Score: 14
+INFO:app.services.lead_filter:AI Analysis - Post: Tesla deliveries rise 7% before EV tax credits exp... Score: 0
+INFO:app.services.lead_filter:AI Analysis - Post: How sustainable is the current growth of AI compar... Score: 7
+INFO:app.services.lead_filter:AI Analysis - Post: Why do you think friends and family don't really s... Score: 24
+INFO:app.services.lead_filter:AI Analysis - Post: How to get the first clients for my first product?... Score: 46
+INFO:app.services.lead_filter:AI Analysis - Post: I need help w business funding :... Score: 38
+INFO:app.services.lead_filter:Score distribution: min=25, max=92, avg=40.3
+INFO:app.services.lead_filter:Score ranges: 25-34: 124, 35-49: 117, 50+: 61
+INFO:app.services.lead_filter:AI-enhanced filtering: 661 posts down to 302 high-relevance leads (25+ threshold)
+INFO:     127.0.0.1:55577 - "POST /api/leads/search HTTP/1.1" 200 OK
